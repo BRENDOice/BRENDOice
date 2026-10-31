@@ -1,4 +1,4 @@
-<!-- ONDA NO TOPO -->
+<!-- ONDA NO TOPO (AZUL) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=140&section=header" width="100%"/>
 
 <h1 align="center">👋 Olá, eu sou o Brendo!</h1>
@@ -53,17 +53,40 @@ Sou estudante de **Engenharia de Software** no 1º período pela Estácio de Sá
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BRENDOice&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRENDOice&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<!-- LINHA SUPERIOR DE ESTATÍSTICAS -->
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img height="160" src="https://github-readme-stats.vercel.app/api?username=BRENDOice&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRENDOice&layout=donut&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
+<!-- LINHA INFERIOR (GRÁFICO DE ATIVIDADE + STREAK) -->
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=BRENDOice&theme=react-dark&hide_border=true" />
+    </td>
+    <td>
+      <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=BRENDOice&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- CITAÇÃO NO RODAPÉ -->
 <p align="center">
-  <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=BRENDOice&theme=react-dark&hide_border=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=BRENDOice&theme=dark&hide_border=true" />
+  <i>" Linha por linha. Construindo a base para grandes sistemas. "</i>
+  <br/><br/>
+  <b>— Brendo Freitas</b>
 </p>
 
 ---
 
-<!-- ONDA NO RODAPÉ -->
+<!-- ONDA NO RODAPÉ (AZUL) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=140&section=footer" width="100%"/>
