@@ -1,79 +1,82 @@
-<!-- ONDA NO TOPO (AZUL) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=140&section=header" width="100%"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=120&section=header"/>
 
-<h1 align="center">👋 Olá, eu sou o Brendo!</h1>
+<div align="center">
 
-<!-- EFEITO DE DIGITAÇÃO DINÂMICA -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=007ACC&center=true&vCenter=true&width=550&lines=Desenvolvedor+de+Software;Graduando+em+Engenharia+de+Software+(Est%C3%A1cio);Linha+por+linha.+Construindo+o+futuro." alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=32&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Brendo+Freitas" alt="Typing" />
+
+</div>
+
+<p align="center"><code>Desenvolvedor de Software | Graduando em Engenharia de Software (Estácio)</code></p>
 
 ---
 
-### 📌 Quem sou eu
+## 🧭 Quem sou eu
 
-Sou estudante de **Engenharia de Software** no 1º período pela Estácio de Sá, baseado no Rio de Janeiro/RJ. Tenho foco em fundamentos de ciência da computação, lógica de programação em C, segurança da informação e construção de projetos práticos para a web.
+Sou **Brendo Freitas**, tenho 19 anos e moro na Rocinha, Rio de Janeiro, RJ.  
+Atualmente curso **Engenharia de Software** na **Estácio de Sá**, focado em construir uma base sólida em Lógica de Programação (C), Segurança da Informação e Desenvolvimento Web.
 
-- 💡 **Áreas de interesse:** Engenharia de Software, Segurança da Informação, Back-end e Automações.
-- ⚡ **Mentalidade:** Aprendizado contínuo, código limpo e resolução de problemas reais.
+Tenho grande interesse em **programação, desenvolvimento de software e soluções digitais**, buscando aplicar meus conhecimentos em projetos práticos e desafiadores.  
+Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para soluções tecnológicas de impacto.
 
 ---
+
+## 🌐 Conecte-se Comigo
+
+<div align="center">
+
+### 🚀 Confira meus Projetos no GitHub
+
+**Projetos, algoritmos em C e aplicações web reunidos em um só lugar**
+
+<a href="https://github.com/BRENDOice" target="_blank">
+  <img src="https://img.shields.io/badge/Acessar_Portfólio-4ade80?style=for-the-badge&color=007ACC&logoColor=white&height=80" />
+</a>
+
+</div>
+
+<div align="center">
 
 ### 🔗 Redes Profissionais e Contato
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/brendo-freitas-277569331/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:brendolimadefreitas@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail" />
-  </a>
+**Buscando novas oportunidades e conexões no ecossistema de tecnologia.**
+  
+<p>
+  <a href="https://www.linkedin.com/in/brendo-freitas-277569331/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" /></a>
+  <a href="mailto:brendolimadefreitas@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail" /></a>
 </p>
+
+</div>
 
 ---
 
-### ⚙️ Linguagens e Tecnologia
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,html,css,tailwind,git,github,vscode" />
-</p>
-
----
-
-### 🚀 Projetos em Destaque
-
-- 💻 **[RigDoctor](https://github.com/BRENDOice/rig-doctor):** Ferramenta de diagnóstico e validação de compatibilidade de hardware.
-- 🏋️‍♂️ **[FitHome](https://github.com/BRENDOice/fithome):** Plataforma web offline-first para controle de treinos e metas calóricas.
-- 📝 **[TaskMaster](https://github.com/BRENDOice/taskmaster):** Gerenciador de tarefas com persistência de dados no front-end.
+## ⚙️ Linguagens e Tecnologia
+<div style="display: inline_block" align="center"><br>
+   <img align="center" src="https://skillicons.dev/icons?i=c,js,html,css,tailwind,git,github,vscode&theme=dark" />
+</div>
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 📊 Estatísticas do Github
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BRENDOice&show_icons=true&theme=tokyonight" />
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRENDOice&layout=donut&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="175" src="https://github-readme-activity-graph.vercel.app/graph?username=BRENDOice&theme=react-dark" />
-  &nbsp;&nbsp;
-  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=BRENDOice&theme=tokyonight" />
-</p>
+| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BRENDOice&theme=github_dark) | ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BRENDOice&theme=github_dark) | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BRENDOice&theme=github_dark) |
+|:-:|:-:|:-:|
 
-<br/>
+| ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BRENDOice&theme=github_dark) | ![Streak](https://streak-stats.demolab.com?user=BRENDOice&theme=github_dark&hide_border=false) |
+|:-:|:-:|
 
-<p align="center">
-  <i>" Linha por linha. Construindo a base para grandes sistemas. "</i>
-  <br/><br/>
-  <b>— Brendo Freitas</b>
-</p>
+</div>
 
 ---
 
-<!-- ONDA NO RODAPÉ (AZUL) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=140&section=footer" width="100%"/>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&size=18&duration=3500&pause=1200&color=63B3ED&center=true&vCenter=true&width=580&lines=%22+Linha%2C+por+linha.+%22;%22+Construindo+o+futuro.+%22">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&size=18&duration=3500&pause=1200&color=1a56a0&center=true&vCenter=true&width=580&lines=%22+Linha%2C+por+linha.+%22;%22+Construindo+o+futuro.+%22" alt="Quote" />
+</picture>
+
+<sub>— Brendo Freitas</sub>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=120&section=footer"/>
