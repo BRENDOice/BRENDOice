@@ -41,7 +41,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para solu�
 **Buscando novas oportunidades e conexões no ecossistema de tecnologia.**
   
 <p>
-  <a href="https://www.linkedin.com/in/brendo-freitas-277569331/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/brendo--277569331/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" /></a>
   <a href="mailto:brendolimadefreitas@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail" /></a>
 </p>
 
