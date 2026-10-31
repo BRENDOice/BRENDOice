@@ -53,33 +53,20 @@ Sou estudante de **Engenharia de Software** no 1º período pela Estácio de Sá
 
 ### 📊 Estatísticas do GitHub
 
-<!-- LINHA SUPERIOR DE ESTATÍSTICAS -->
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <img height="160" src="https://github-readme-stats.vercel.app/api?username=BRENDOice&show_icons=true&theme=tokyonight&hide_border=true" />
-    </td>
-    <td>
-      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRENDOice&layout=donut&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BRENDOice&show_icons=true&theme=tokyonight" />
+  &nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRENDOice&layout=donut&theme=tokyonight" />
+</p>
 
-<!-- LINHA INFERIOR (GRÁFICO DE ATIVIDADE + STREAK) -->
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=BRENDOice&theme=react-dark&hide_border=true" />
-    </td>
-    <td>
-      <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=BRENDOice&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="175" src="https://github-readme-activity-graph.vercel.app/graph?username=BRENDOice&theme=react-dark" />
+  &nbsp;&nbsp;
+  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=BRENDOice&theme=tokyonight" />
+</p>
 
 <br/>
 
-<!-- CITAÇÃO NO RODAPÉ -->
 <p align="center">
   <i>" Linha por linha. Construindo a base para grandes sistemas. "</i>
   <br/><br/>
