@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=32&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Brendo+Freitas" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=32&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Brendo+Lima" alt="Typing" />
 
 </div>
 
@@ -77,6 +77,6 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para solu�
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&size=18&duration=3500&pause=1200&color=1a56a0&center=true&vCenter=true&width=580&lines=%22+Linha%2C+por+linha.+%22;%22+Construindo+o+futuro.+%22" alt="Quote" />
 </picture>
 
-<sub>— Brendo</sub>
+<sub>— Brendo Lima</sub>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=120&section=footer"/>
