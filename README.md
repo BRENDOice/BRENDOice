@@ -71,11 +71,11 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para solu�
 ---
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&size=18&duration=3500&pause=1200&color=63B3ED&center=true&vCenter=true&width=580&lines=%22+Linha%2C+por+linha.+%22;%22+Construindo+o+futuro.+%22">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&size=18&duration=3500&pause=1200&color=1a56a0&center=true&vCenter=true&width=580&lines=%22+Código%2C+por+código.+%22;%22+Linha%2C+por+linha.+%22;%22+Construindo+o+meu+futuro.+%22" alt="Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&size=18&duration=3500&pause=1200&color=1a56a0&center=true&vCenter=true&width=580&lines=%22+C%C3%B3digo%2C+por+c%C3%B3digo.+%22;%22+Linha%2C+por+linha.+%22;%22+Construindo+o+meu+futuro.+%22" alt="Quote" />
 </picture>
+
 
 <sub>— Brendo Lima</sub>
 
