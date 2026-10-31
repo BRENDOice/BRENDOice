@@ -12,7 +12,7 @@
 
 ## 🧭 Quem sou eu
 
-Sou **Brendo Freitas**, tenho 19 anos e moro na Rocinha, Rio de Janeiro, RJ.  
+Sou **Brendo **, tenho 19 anos e moro na Rocinha, Rio de Janeiro, RJ.  
 Atualmente curso **Engenharia de Software** na **Estácio de Sá**, focado em construir uma base sólida em Lógica de Programação (C), Segurança da Informação e Desenvolvimento Web.
 
 Tenho grande interesse em **programação, desenvolvimento de software e soluções digitais**, buscando aplicar meus conhecimentos em projetos práticos e desafiadores.  
@@ -77,6 +77,6 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para solu�
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&size=18&duration=3500&pause=1200&color=1a56a0&center=true&vCenter=true&width=580&lines=%22+Linha%2C+por+linha.+%22;%22+Construindo+o+futuro.+%22" alt="Quote" />
 </picture>
 
-<sub>— Brendo Freitas</sub>
+<sub>— Brendo</sub>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=120&section=footer"/>
